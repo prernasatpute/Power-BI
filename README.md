@@ -26,37 +26,37 @@ The report consists of four key dashboards:
 
 **KPI Cards**
 
-• Total Revenue, Total Profit, Total Orders, Return Rate (Overall Sales Performance)
+  • Total Revenue, Total Profit, Total Orders, Return Rate (Overall Sales Performance)
 
-• Dynamic KPI Cards for Monthly Revenue, Monthly Orders, and Monthly Returns (Filtered by selected product category)
+  • Dynamic KPI Cards for Monthly Revenue, Monthly Orders, and Monthly Returns (Filtered by selected product category)
 
 
 
 **Line Chart – Revenue Trend (2020-2022)**
 
-• Shows how revenue has changed over time.
+  • Shows how revenue has changed over time.
 
-• Drill-down feature allows users to view trends at monthly and weekly levels.
+  • Drill-down feature allows users to view trends at monthly and weekly levels.
 
 
 
 **Clustered Bar Chart – Orders by Category**
 
-• Visualizes total orders for Accessories, Bikes, and Clothing.
+  • Visualizes total orders for Accessories, Bikes, and Clothing.
 
-• Interactive: Clicking on a category filters all other visuals accordingly.
+  • Interactive: Clicking on a category filters all other visuals accordingly.
 
 
 
 **Top 10 Products Table**
 
-• Lists the top 10 best-selling products, showing:
+  • Lists the top 10 best-selling products, showing:
 
-• Total Orders
+  • Total Orders
 
-• Revenue
+  • Revenue
 
-• Return Rate
+  • Return Rate
 
 
 
@@ -65,100 +65,96 @@ The report consists of four key dashboards:
 
 **KPI Card – Selected Product**
 
-• Displays the selected product name, carried forward from the Executive Dashboard via drill-through navigation.
+  • Displays the selected product name, carried forward from the Executive Dashboard via drill-through navigation.
 
 
 **Gauge Charts – Performance Against Targets**
 
-• Monthly Orders vs Target
+  • Monthly Orders vs Target
 
-• Monthly Revenue vs Target
+  • Monthly Revenue vs Target
 
-• Monthly Profit vs Target
+  • Monthly Profit vs Target
 
 
 **Line Chart – Total & Adjusted Profit**
 
-• Displays total profit and adjusted profit based on price adjustments.
+  • Displays total profit and adjusted profit based on price adjustments.
 
-• Users can select different price adjustment levels from a slicer.
+  • Users can select different price adjustment levels from a slicer.
 
-• Drill-down enabled to view trends at monthly and weekly levels.
+  • Drill-down enabled to view trends at monthly and weekly levels.
 
 
 **Line Chart – Product Metric Selection**
 
-• Users can choose between Orders, Revenue, Profit, Returns, or Return Rate from a slicer.
+  • Users can choose between Orders, Revenue, Profit, Returns, or Return Rate from a slicer.
 
-• The line chart updates dynamically to show the trend for the selected metric.
+  • The line chart updates dynamically to show the trend for the selected metric.
 
 
 **3. Map Dashboard – Regional Sales Analysis**
 
-
 **Global Map with Sales Regions**
 
-• The map highlights three key regions:
+  • The map highlights three key regions:
 
-• North America
+    • North America
 
-• Europe
+    • Europe
 
-• Pacific
+    • Pacific
 
-• Hovering over a region displays total orders for that region.
+  • Hovering over a region displays total orders for that region.
 
 
 **Region Slicer**
 
-• Users can select a specific region to filter all visuals accordingly.
+  • Users can select a specific region to filter all visuals accordingly.
 
-
-
-4. Customer Detail Page – Customer Segmentation & Revenue Analysis
-
+**4. Customer Detail Page – Customer Segmentation & Revenue Analysis**
 
 **KPI Cards**
 
-• Unique Customers – Number of distinct customers.
+  • Unique Customers – Number of distinct customers.
 
-• Average Revenue per Customer – Total revenue divided by the number of unique customers.
+  • Average Revenue per Customer – Total revenue divided by the number of unique customers.
 
 
 **Line Chart – Customer Trends**
 
-• Users can toggle between Total Customers and Revenue per Customer using a slicer.
+  • Users can toggle between Total Customers and Revenue per Customer using a slicer.
 
-• Displays trends over time.
+  • Displays trends over time.
 
 
 **Donut Charts – Customer Segmentation**
 
-• Orders by Income Level – Breakdown of orders based on income group.
+  • Orders by Income Level – Breakdown of orders based on income group.
 
-• Orders by Occupation – Categorizes orders by different occupations.
+  • Orders by Occupation – Categorizes orders by different occupations.
 
 
 **Customer Table**
 
-• Displays detailed customer data, including:
+  • Displays detailed customer data, including:
 
-• Customer Key
+    • Customer Key
 
-• Full Name
+    • Full Name
 
-• Total Orders
+    • Total Orders
 
-• Total Revenue
+    • Total Revenue
 
 
 **KPI Cards – Top Customer**
 
-• Displays the top customer by revenue along with:
+  • Displays the top customer by revenue along with:
 
-• Total Orders
+    • Total Orders
 
-• Total Revenue
+    • Total Revenue
 
 
 **How to Use**
@@ -169,13 +165,13 @@ The report consists of four key dashboards:
 
 3. Navigate through different pages:
 
-   • Executive Dashboard → Overview of sales performance.
+    • Executive Dashboard → Overview of sales performance.
 
-   • Product Detail Page → Drill-through for product-level insights.
+    • Product Detail Page → Drill-through for product-level insights.
 
-   • Map Dashboard → Analyze sales by region.
+    • Map Dashboard → Analyze sales by region.
 
-   • Customer Detail Page → Explore customer segmentation and revenue impact.
+    • Customer Detail Page → Explore customer segmentation and revenue impact.
 
 4. Use the interactive filters, slicers, and drill-down features to explore insights.
 
