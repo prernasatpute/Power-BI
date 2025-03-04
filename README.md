@@ -180,6 +180,6 @@ The report consists of four key dashboards:
 4. Use the interactive filters, slicers, and drill-down features to explore insights.
 
 
-Screenshots:
+**Screenshots:**
 Added in the Screenshots File.
 
