@@ -169,13 +169,13 @@ The report consists of four key dashboards:
 
 3. Navigate through different pages:
 
-• Executive Dashboard → Overview of sales performance.
+   • Executive Dashboard → Overview of sales performance.
 
-• Product Detail Page → Drill-through for product-level insights.
+   • Product Detail Page → Drill-through for product-level insights.
 
-• Map Dashboard → Analyze sales by region.
+   • Map Dashboard → Analyze sales by region.
 
-• Customer Detail Page → Explore customer segmentation and revenue impact.
+   • Customer Detail Page → Explore customer segmentation and revenue impact.
 
 4. Use the interactive filters, slicers, and drill-down features to explore insights.
 
