@@ -161,8 +161,7 @@ The report consists of four key dashboards:
 • Total Revenue
 
 
-
-🛠️ How to Use
+**How to Use**
 
 1. Download the AdventureWorksDash.pbix file from the repository.
 
